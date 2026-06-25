@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Customer Shopping Behavior Analysis (End-to-End Data Analytics)
 
 An end-to-end data analytics project focused on optimizing customer retention, subscription conversion, and targeted marketing strategy for a retail dataset of 3,900 unique customer transactions.
@@ -19,7 +19,8 @@ This project demonstrates a production-grade data pipeline workflow: moving from
 
 *Below is a preview of the interactive customer behavior analytics dashboard built in Power BI:*
 
-![Power BI Dashboard Preview]([LINK_TO_YOUR_DASHBOARD_SCREENSHOT_HERE])
+![Power BI Dashboard Preview]<img width="1290" height="718" alt="Screenshot 2026-06-26 022806" src="https://github.com/user-attachments/assets/a69d49e3-f79f-42a7-9ced-2ca57ef1b739" />
+
 
 ### Key Dashboard High-Level Metrics:
 * **Total Customer Volume:** 3.86K unique records
